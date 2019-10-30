@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#search {
+  width: 100%;
+  font-size: x-large;
+  padding: 0.4em;
+  margin-bottom: 0.5em;
+}
+
+.shortcuts {
+  margin-bottom: 2em;
+}
+
+#pokemon {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  row-gap: 1em;
+}
+
+.tile img {
+  width: 50%;
+}
+
+.tile .image {
+  margin-bottom: 1em;
+}
+
+.tile {
+  border: 3px solid white;
+  text-align: center;
+}
+
+.active {
+  border: 3px solid black;
+  border-radius: 1em;
+}

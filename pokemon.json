@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Bulbasaur",
+    "image": "images/bulbasaur.jpg"
+  },
+  {
+    "title": "Charizard",
+    "image": "images/charizard.jpg"
+  },
+  {
+    "title": "Clefairy",
+    "image": "images/clefairy.jpg"
+  },
+  {
+    "title": "Jigglypuff",
+    "image": "images/jigglypuff.jpg"
+  },
+  {
+    "title": "Nidoran",
+    "image": "images/nidoran.jpg"
+  },
+  {
+    "title": "Oddish",
+    "image": "images/oddish.jpg"
+  },
+  {
+    "title": "Paras",
+    "image": "images/paras.jpg"
+  },
+  {
+    "title": "Rattata",
+    "image": "images/rattata.jpg"
+  },
+  {
+    "title": "Sandshrew",
+    "image": "images/sandshrew.jpg"
+  },
+  {
+    "title": "Squirtle",
+    "image": "images/squirtle.jpg"
+  },
+  {
+    "title": "Weedle",
+    "image": "images/Weedle.jpg"
+  }
+]
